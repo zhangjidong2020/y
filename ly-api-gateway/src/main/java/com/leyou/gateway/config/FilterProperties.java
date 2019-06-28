@@ -10,6 +10,7 @@ import java.util.List;
 public class FilterProperties {
 
     private List<String> allowPaths;
+    private String name;
 
 
 
